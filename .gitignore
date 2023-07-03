@@ -1,3 +1,8 @@
+.DS_store
+data/
+
+# pre-generated .gitignore below here
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
